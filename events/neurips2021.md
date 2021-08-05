@@ -62,7 +62,7 @@ We will be holding two informational webinars answering questions about the ment
 [Hari Prasanna Das (UC Berkeley)](http://hariprasanna.com/)<br>
 [Simone Fobi (Columbia University)](https://nsutezo.github.io/)<br>
 [Ján Drgoňa (PNNL)](https://drgona.github.io/)<br>
-[Tegan Maharaj (UToronto)](http://www.teganmaharaj.com/)<br>
+[Tegan Maharaj (Mila, UToronto)](http://www.teganmaharaj.com/)<br>
 [Yoshua Bengio (Mila, UdeM)](https://yoshuabengio.org/)<br>
 
 ## Call for Submissions
@@ -119,7 +119,7 @@ Submissions for the Proposals track should describe detailed ideas for how machi
 
 *Interactive notebooks for insightful step-by-step walkthroughs*
 
-Submissions for the Tutorials track should introduce or demonstrate the use of ML methods and tools such as libraries, packages, services, datasets, or frameworks to address a problem related to climate change. Tutorial proposals (due Aug 15) should take the form of an abstract and should include a clear and concise description of users’ expected learning outcomes from the tutorial. Final tutorial submissions (due Nov 23) should be in the form of executable notebooks (e.g. Jupyter, Colab). Submissions will be reviewed based on their potential impact and overall usability by the climate science and AI research community.
+Submissions for the Tutorials track should introduce or demonstrate the use of ML methods and tools such as libraries, packages, services, datasets, or frameworks to address a problem related to climate change. Tutorial proposals (due Aug 15) should take the form of an abstract and should include a clear and concise description of users’ expected learning outcomes from the tutorial. Accepted submissions (to be notified by Aug 22) will be given 6 weeks for the initial tutorial development ("midterm" deadline Oct 4), after which tutorial creators will collaborate with the CCAI Tutorials Team, who will review the tutorials periodically and provide iterative feedback, while the creators continue to develop and improve their work over the course of another 8 weeks. Final tutorial submissions (due Nov 21) should be in the form of executable notebooks (e.g. Jupyter, Colab) in a hosted code environment.
 
 
 ### Tips for Submissions
