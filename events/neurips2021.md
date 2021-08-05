@@ -13,7 +13,7 @@ og_image_height: 1424
 <div class='buttons' id='sticky-nav'>
   <a class='button' href='#about'>About</a>
   <a class='button' href='#informational-webinar'>Informational Webinar</a>
-  <a class='button' href='#call-for-submissions'><s>Call for Submissions</s></a>
+  <a class='button' href='#call-for-submissions'>Call for Submissions</a>
   <a class='button' href='#mentorship-program'>Mentorship Program</a>
   <a class='button' href='#organizers'>Organizers</a>
   <a class='button' href='#frequently-asked-questions'>FAQ</a>
@@ -33,12 +33,12 @@ This workshop is part of the International Conference on Machine Learning (ICML)
 ### About the Workshop
 
 <ul>
-<li>Date: Dec 13 or 14 (TBD)</li>
+<li>Date: Dec 6-14 (TBD)</li>
 <li>Location: Virtual</li>
 <li>[Mentorship program](#mentorship-program) application deadline: <b>Aug 15, 23:59 AOE</b></li>
 <li>Application to be a mentee: https://cmt3.research.microsoft.com/CCAIMNeurIPS2021</li>
 <li>Application to be a mentor: https://forms.gle/49Lmr8Uk2iWWBNF99
-<li>Tutorials submission deadline: <b>Aug 15, 23:59 AOE</b></li>
+<li>Tutorials proposal submission deadline: <b>Aug 15, 23:59 AOE</b></li>
 <li>Tutorials application form: https://forms.gle/wMkXSVnqxamJ5s7g8</li>
 <li>Mentor-Mentee match notification: Aug 18, 23:59 AOE</li>
 <li>Notification of accepted tutorials: Aug 22, 23:59 AOE</li>
@@ -53,29 +53,28 @@ This workshop is part of the International Conference on Machine Learning (ICML)
 
 We will be holding two informational webinars answering questions about the mentorship program and how to prepare a successful submission for the workshop. (The content for both the webinars will be the same.)
 
-[Register here](https://videoconf-colibri.zoom.us/j/87277731292) to attend the webinar on **Aug 10** from 10am-11am Eastern Time | 2pm-3pm UTC.
-
-[Register here](https://videoconf-colibri.zoom.us/j/85650705922) to attend the webinar on **Aug 11** from 2pm-3pm Eastern Time | 6pm-7pm UTC.
+[Register here](https://columbiauniversity.zoom.us/meeting/register/tJMvceqvrjkiGdduuI_GBjO7gMD2hd0NlK4V) to attend the webinar on **Aug 10** from 10am-11am Eastern Time | 2pm-3pm UTC. <br>
+[Register here](https://columbiauniversity.zoom.us/meeting/register/tJ0kdeihpjwrGdZ0CJbBLlQbiwesJJWjZxWi) to attend the webinar on **Aug 11** from 2pm-3pm Eastern Time | 6pm-7pm UTC.<br>
 
 ## Organizers
 
 [Maria João Sousa (IST, ULisboa)](https://www.linkedin.com/in/mariajoaosousa/)<br>
 [Hari Prasanna Das (UC Berkeley)](http://hariprasanna.com/)<br>
 [Simone Fobi (Columbia University)](https://nsutezo.github.io/)<br>
-[Jan Drgona (PNNL)](https://drgona.github.io/)<br>
-[Tegan Maharaj (UToronto)](http://www.teganmaharaj.com/)<br>
+[Ján Drgoňa (PNNL)](https://drgona.github.io/)<br>
+[Tegan Maharaj (Mila, UToronto)](http://www.teganmaharaj.com/)<br>
 [Yoshua Bengio (Mila, UdeM)](https://yoshuabengio.org/)<br>
 
 ## Call for Submissions
 
 We invite submissions of short papers using machine learning to address problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
  - Agriculture
- - Buildings and cities
  - Behavioral and social science
+ - Buildings and cities
  - Carbon capture and sequestration
- - Climate modeling
  - Climate finance and economics
  - Climate justice
+ - Climate modeling
  - Climate policy
  - Disaster prediction, management, and relief
  - Earth science and monitoring
