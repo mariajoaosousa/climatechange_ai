@@ -13,7 +13,7 @@ og_image_height: 1424
 <div class='buttons' id='sticky-nav'>
   <a class='button' href='#about'>About</a>
   <a class='button' href='#informational-webinar'>Informational Webinar</a>
-  <a class='button' href='#call-for-submissions'><s>Call for Submissions</s></a>
+  <a class='button' href='#call-for-submissions'>Call for Submissions</a>
   <a class='button' href='#mentorship-program'>Mentorship Program</a>
   <a class='button' href='#organizers'>Organizers</a>
   <a class='button' href='#frequently-asked-questions'>FAQ</a>
