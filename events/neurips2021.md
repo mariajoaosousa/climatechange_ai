@@ -115,7 +115,7 @@ Submissions for the Proposals track should describe detailed ideas for how machi
 
 *Interactive notebooks for insightful step-by-step walkthroughs.*
 
-Submissions for the Tutorials track should introduce or demonstrate the use of ML methods and tools such as libraries, packages, services, datasets, or frameworks to address a problem related to climate change. Tutorial proposals (**250 words**, due Aug 15) should take the form of an abstract and should include a clear and concise description of users’ expected learning outcomes from the tutorial. Accepted submissions (to be notified by Aug 30) will be given 6 weeks for the initial tutorial development ("midterm" deadline Oct 11), after which tutorial creators will collaborate with the CCAI Tutorials Team, who will review the tutorials periodically and provide iterative feedback, while the creators continue to develop and improve their work over the course of another 6 weeks. Final tutorial submissions (due Nov 22) should be in the form of executable notebooks (e.g. Jupyter, Colab) in a hosted code environment.
+Submissions for the Tutorials track should introduce or demonstrate the use of ML methods and tools such as libraries, packages, services, datasets, or frameworks to address a problem related to climate change. Tutorial proposals (**250 words**, due Aug 23) should take the form of an abstract and should include a clear and concise description of users’ expected learning outcomes from the tutorial. Accepted submissions (to be notified by Aug 30) will be given 6 weeks for the initial tutorial development ("midterm" deadline Oct 11), after which tutorial creators will collaborate with the CCAI Tutorials Team, who will review the tutorials periodically and provide iterative feedback, while the creators continue to develop and improve their work over the course of another 6 weeks. Final tutorial submissions (due Nov 22) should be in the form of executable notebooks (e.g. Jupyter, Colab) in a hosted code environment.
 
 
 ### Tips for Submissions
@@ -152,7 +152,7 @@ Examples of mentor-mentee interactions may include:
 
 Mentees are expected to initiate contact with their assigned mentor and put in the work and effort necessary to prepare a Paper or Proposal submission by Sep 18.
 
-We suggest that after the mentor-mentee matching is made, a first (physical or digital) meeting should take place within the first week (Aug 18-25) to discuss the Paper or Proposal and set expectations for the mentorship period. Subsequent interactions can take place either through meetings or via email discussions, following the expectations set during the initial meeting, culminating in a final version of a Paper or Proposal submitted via the CMT portal by Sep 18.
+We suggest that after the mentor-mentee matching is made, a first (physical or digital) meeting should take place within the first week (Aug 19-25) to discuss the Paper or Proposal and set expectations for the mentorship period. Subsequent interactions can take place either through meetings or via email discussions, following the expectations set during the initial meeting, culminating in a final version of a Paper or Proposal submitted via the CMT portal by Sep 18.
 
 Mentors and mentees must abide by the following Code of Conduct: <https://www.climatechange.ai/code_of_conduct>.
 
