@@ -32,15 +32,15 @@ This workshop is part of the conference on Neural Information Processing Systems
 
 ### About the Workshop
 
-- Date: Dec 6-14 (TBD)
+- Date: Dec 13 or 14 (TBD)
 - Location: Virtual
-- [Mentorship program](#mentorship-program) application deadline: <b>Aug 15, 23:59 AOE (Anywhere on Earth)</b>
+- [Mentorship program](#mentorship-program) application deadline: <b>Aug 16, 23:59 AOE (Anywhere on Earth)</b>
   - Application to be a mentee: <https://cmt3.research.microsoft.com/CCAIMNeurIPS2021>
   - Application to be a mentor: <https://forms.gle/49Lmr8Uk2iWWBNF99>
-  - Mentor-Mentee match notification: Aug 18, 23:59 AOE
-- Tutorial proposal submission deadline: <b>Aug 15, 23:59 AOE</b>
+  - Mentor-Mentee match notification: Aug 19, 23:59 AOE
+- Tutorial proposal submission deadline: <b>Aug 23, 23:59 AOE</b>
   - Tutorial application form: <https://forms.gle/wMkXSVnqxamJ5s7g8>
-  - Notification of accepted tutorials: Aug 22, 23:59 AOE
+  - Notification of accepted tutorials: Aug 30, 23:59 AOE
 - Paper/Proposal submission deadline: <b>Sep 18, 23:59 AOE</b>
   - Paper/Proposal submission website: <https://cmt3.research.microsoft.com/CCAINeurIPS2021>
   - Notification of accepted papers/proposals: Oct 23
@@ -49,10 +49,8 @@ This workshop is part of the conference on Neural Information Processing Systems
 
 ## Informational Webinar
 
-We will be holding two informational webinars answering questions about the mentorship program and how to prepare a successful submission for the workshop. (The content for both the webinars will be the same.)
+We recently conducted two informational webinars answering questions about the mentorship program and how to prepare a successful submission for the workshop. The video recording of the Aug 11 webinar can be found [here](https://www.youtube.com/watch?v=jBPG2PCshSM).
 
-[Register here](https://columbiauniversity.zoom.us/meeting/register/tJMvceqvrjkiGdduuI_GBjO7gMD2hd0NlK4V) to attend the webinar on **Aug 10** from 10am-11am Eastern Time (2pm-3pm UTC).<br>
-[Register here](https://columbiauniversity.zoom.us/meeting/register/tJ0kdeihpjwrGdZ0CJbBLlQbiwesJJWjZxWi) to attend the webinar on **Aug 11** from 2pm-3pm Eastern Time (6pm-7pm UTC).<br>
 
 ## Organizers
 
@@ -117,7 +115,7 @@ Submissions for the Proposals track should describe detailed ideas for how machi
 
 *Interactive notebooks for insightful step-by-step walkthroughs.*
 
-Submissions for the Tutorials track should introduce or demonstrate the use of ML methods and tools such as libraries, packages, services, datasets, or frameworks to address a problem related to climate change. Tutorial proposals (**250 words**, due Aug 15) should take the form of an abstract and should include a clear and concise description of users’ expected learning outcomes from the tutorial. Accepted submissions (to be notified by Aug 22) will be given 6 weeks for the initial tutorial development ("midterm" deadline Oct 4), after which tutorial creators will collaborate with the CCAI Tutorials Team, who will review the tutorials periodically and provide iterative feedback, while the creators continue to develop and improve their work over the course of another 8 weeks. Final tutorial submissions (due Nov 21) should be in the form of executable notebooks (e.g. Jupyter, Colab) in a hosted code environment.
+Submissions for the Tutorials track should introduce or demonstrate the use of ML methods and tools such as libraries, packages, services, datasets, or frameworks to address a problem related to climate change. Tutorial proposals (**250 words**, due Aug 15) should take the form of an abstract and should include a clear and concise description of users’ expected learning outcomes from the tutorial. Accepted submissions (to be notified by Aug 30) will be given 6 weeks for the initial tutorial development ("midterm" deadline Oct 11), after which tutorial creators will collaborate with the CCAI Tutorials Team, who will review the tutorials periodically and provide iterative feedback, while the creators continue to develop and improve their work over the course of another 6 weeks. Final tutorial submissions (due Nov 22) should be in the form of executable notebooks (e.g. Jupyter, Colab) in a hosted code environment.
 
 
 ### Tips for Submissions
@@ -160,7 +158,7 @@ Mentors and mentees must abide by the following Code of Conduct: <https://www.cl
 
 ### Application
 
-Applications are due by **Aug 15**.
+Applications are due by **Aug 16**.
 - Application to be a mentee: <https://cmt3.research.microsoft.com/CCAIMNeurIPS2021>
 - Application to be a mentor: <https://forms.gle/49Lmr8Uk2iWWBNF99>
 
